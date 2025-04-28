@@ -446,6 +446,82 @@ nav {
     }
   }
 
+/* Detailed Skills Section */
+/* Shows the basic styling for the detailed skills section and expands fromthe previous section */
+#detailed-skills {
+  padding: 60px 20px;
+  background-color: #f9f9f9;
+}
+
+.detailed-skills-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.skills-text {
+  flex: 1 1 55%;
+}
+
+.skills-text h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.skills-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.skill-item {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+}
+
+.skill-item h3 {
+  font-size: 1.2rem;
+  color: #333;
+  margin-bottom: 8px;
+}
+
+.skill-item p {
+  font-size: 1rem;
+  color: #666;
+}
+
+/* Hover effect for skill cards */
+.skill-item:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+/* Right side image */
+.skills-image {
+  flex: 1 1 40%;
+  text-align: center;
+}
+
+.skills-image img {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 10px;
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+  cursor: pointer;
+}
+
+/* Hover effect for image */
+.skills-image img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
   /* Stats Bar Section */
   /* Shows the basic styling for the stats bar section */
 #stats-bar {
