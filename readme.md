@@ -17,8 +17,6 @@
 - [Getting Started](#getting-started)
 - [Screenshots](#screenshots)
 - [Collaboration](#collaboration)
-- [Extra Features](#extra-features)
-- [License](#license)
 - [Contact](#contact)
 
 ---
@@ -49,12 +47,12 @@ The site highlights a wide range of technical expertise, thoughtful design, and 
 | Page        | Description                                     |
 |-------------|-------------------------------------------------|
 | **Home**    | Landing page with professional highlights.      |
-| **About**   | My personal story, values, and experience.       |
+| **About**   | My personal story, values, and experience.      |
 | **Services**| Web development services offered.               |
 | **Skills**  | Technical skills and proficiency.               |
 | **Blogs**   | Tech-related articles and insights.             |
-| **Projects** | Projects that are related to the site           |
-| **Contact** | Direct contact form for inquiries.           |
+| **Projects**| Projects that are related to the site           |
+| **Contact** | Direct contact form for inquiries.              |
 
 
 ---
@@ -86,7 +84,7 @@ npm run dev
 Open your browser and visit http://localhost:3000
 
 📸 Screenshots
-(Add screenshots here by uploading images into the repo or using links.)
+
 
 
 
@@ -104,7 +102,7 @@ Extra Features
 
 write them down here 
 
-Contact 
+# Contact 
 write contact details of all collaborators 
 
 
