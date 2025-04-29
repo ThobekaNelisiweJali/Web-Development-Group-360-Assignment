@@ -100,7 +100,7 @@ Please refer to the following link to see screenshots of the site.
 | [Margaret Akinyi] | CSS|
 
 # Contact 
-If you have any questions feel free t9 contact us at: 
+If you have any questions feel free t0 contact us at: 
 
 Thembelani Bukali : siphothagreat@gmail.com
 Thobeka Jali     : thobekaj63@gmail.com 
