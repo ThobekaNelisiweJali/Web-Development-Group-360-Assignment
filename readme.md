@@ -88,6 +88,7 @@ Open your browser and visit http://localhost:3000
 
 # 📸 Screenshots
 Please refer to the following link to see screenshots of the site. 
+https://github.com/ThobekaNelisiweJali/Web-Dev-Assignment-Pictures/tree/master
 
 
 ## Collaboration
