@@ -83,10 +83,11 @@ npm install
 npm run dev
 Open your browser and visit http://localhost:3000
 
-📸 Screenshots
+```
+---
 
-
-
+# 📸 Screenshots
+Please refer to the following link to see screenshots of the site. 
 
 
 ## Collaboration
@@ -98,12 +99,13 @@ Open your browser and visit http://localhost:3000
 | [Janet Mutisya] | CSS |
 | [Margaret Akinyi] | CSS|
 
-Extra Features 
-
-write them down here 
-
 # Contact 
-write contact details of all collaborators 
+If you have any questions feel free t9 contact us at: 
+
+Thembelani Bukali : siphothagreat@gmail.com
+Thobeka Jali     : thobekaj63@gmail.com 
+Margaret Akinyi  : magisuz@gmail.com
+Janet Mutisya    : 
 
 
 
